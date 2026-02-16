@@ -13,4 +13,4 @@ manifest:
       remote: kumamuk-git
       revision: main
   self:
-    path: config
+    path: confi
